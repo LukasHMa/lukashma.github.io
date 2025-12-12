@@ -29,13 +29,13 @@ interests:
 education:
   - degree: "Ph.D. in Economics (ongoing)"
     institution: "Stockholm University"
-    start: "2023"
+    start: "2023-00-00"
     end: ""
     summary: ""
   - degree: "M.Sc. in Economics"
     institution: "Stockholm University"
-    start: "2021"
-    end: "2023"
+    start: "2021-00-00"
+    end: "2023-00-00"
     summary: ""
 experience: []
 skills: []
