@@ -20,7 +20,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: ""
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website."
+    description: ""
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "BuildLore" # Twitter/X handle for Twitter Cards (without @)
@@ -116,7 +116,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© Last updated {2025} {Lukas Ma}. This work is licensed under {license}"
+    notice: "© Last updated December, 2025 by Lukas Ma. This work is licensed under MIT"
     license:
       type: cc # cc | all_rights | custom
       allow_derivatives: false
