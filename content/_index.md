@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
-      text: ''
+      text: '(马华懋）'
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
@@ -30,11 +30,11 @@ sections:
 
       # Name heading sizing to accommodate long or short names
       name:
-        size: balanced # Options: compact (long names), balanced (default), display (short names)
+        size: compact # Options: compact (long names), balanced (default), display (short names)
 
       # Avatar customization
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   
   # - block: markdown
