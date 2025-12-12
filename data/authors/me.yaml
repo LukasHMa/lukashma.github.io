@@ -9,9 +9,9 @@ name:
   pronunciation: ""
   pronouns: ""
 status:
-  icon: "☕️"
+  icon: []
 role: "Ph.D. student in Economics"
-bio: "Welcome to my website! I'm a third-year Ph.D. student in Economics at Stockholm University. I work on questions in Political Economy, Development Economics, and Economic History.\n"
+bio: "I'm a third-year Ph.D. student in Economics at Stockholm University. I work on questions in Political Economy, Development Economics, and Economic History."
 affiliations: []
 links:
   - icon: "at-symbol"
@@ -29,13 +29,13 @@ interests:
 education:
   - degree: "Ph.D. in Economics (ongoing)"
     institution: "Stockholm University"
-    start: "2023-00-00"
+    start: ""
     end: ""
     summary: ""
-  - degree: "M.Sc. in Economics"
+  - degree: "M.Sc. in Economics, 2023"
     institution: "Stockholm University"
-    start: "2021-00-00"
-    end: "2023-00-00"
+    start: ""
+    end: ""
     summary: ""
 experience: []
 skills: []
