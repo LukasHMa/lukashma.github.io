@@ -19,7 +19,7 @@ sections:
         text: Download CV
         url: uploads/vita_LM_Dec25.pdf
       headings:
-        about: ''
+        about: 'Welcome to my website!'
         education: ''
         interests: ''
     design:
@@ -58,16 +58,16 @@ sections:
   #     view: article-grid
   #     columns: 2
 
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
+  # - block: collection
+  #  content:
+  #    title: Recent Publications
+  #    text: ''
+  #    filters:
+  #      folders:
+  #        - publications
+  #      exclude_featured: false
+  #  design:
+  #    view: citation
 
   - block: collection
     content:
