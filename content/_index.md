@@ -19,10 +19,10 @@ sections:
       button:
         text: Download CV
         url: uploads/vita_LM_Dec25.pdf
-      headings:
-        about: 'Welcome to my website!'
-        education: ''
-        interests: ''
+      # headings:
+      #   about: ''
+      #   education: ''
+      #   interests: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -35,17 +35,20 @@ sections:
 
       # Avatar customization
       avatar:
-        size: small # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: large # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   
-  # - block: markdown
-  #   content:
-  #     title: 'Research themes'
-  #     subtitle: ''
-  #     text: |-
-  #      My research interests lie at the intersection of Political
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: 'Research interests'
+      subtitle: ''
+      text: |
+       - Nation-building
+       - Identity formation
+       - Peace and conflict
+       - Migration
+    design:
+      columns: '1'
 
   # - block: collection
   #   id: papers

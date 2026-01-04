@@ -2,16 +2,16 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "Lukas Huamao Ma"
+  display: "Lukas Huamao Ma (马华懋)"
   given: "Lukas Huamao"
   family: "Ma"
-  alternate: "马华懋"
+  alternate: ""
   pronunciation: ""
   pronouns: ""
 status:
   icon: []
 role: "Ph.D. student in Economics"
-bio: "I'm currently a third-year Ph.D. student in Economics at Stockholm University. I work on questions in Political Economy, Development Economics, and Economic History."
+bio: "Welcome to my website! I'm currently a third-year Ph.D. student in Economics at Stockholm University. I work on questions in Political Economy, Development Economics, and Economic History."
 affiliations: []
 links:
   - icon: "at-symbol"
@@ -24,8 +24,6 @@ links:
   - icon: "brands/linkedin"
     url: "https://www.linkedin.com/in/lukasma/"
 interests:
-  - "Nation-building"
-  - "Identity formation"
 education:
   - degree: "Ph.D. in Economics (ongoing)"
     institution: "Stockholm University"
