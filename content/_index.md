@@ -1,5 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
+# Check https://hugoblox.com/blocks/ for more blocks templates
 title: ''
 date: 2022-10-24
 type: landing
@@ -9,7 +10,7 @@ design:
   spacing: '6rem'
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
@@ -71,7 +72,7 @@ sections:
 
   - block: collection
     content:
-      title: Working papers
+      title: Working Papers
       filters:
         folders:
           - working_paper
@@ -80,7 +81,7 @@ sections:
 
   - block: collection
     content:
-      title: Work in progress
+      title: Work in Progress
       filters:
         folders:
           - projects

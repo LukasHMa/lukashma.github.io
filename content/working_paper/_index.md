@@ -1,12 +1,13 @@
 ---
-title: Working papers
+title: Working Papers
 cms_exclude: true
 
 # View
-view: card
+view: citation
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
   caption: ''
   filename: ''
 ---
+
