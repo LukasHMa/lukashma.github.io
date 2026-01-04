@@ -5,7 +5,7 @@
 # Documentation: https://docs.hugoblox.com/
 # ══════════════════════════════════════════════════════════════════════════════
 hugoblox:
-  schema: "2.0"
+  schema: "1.0"
 
   # ────────────────────────────────────────────────────────────────────────────
   # IDENTITY
@@ -91,7 +91,7 @@ hugoblox:
     # Feature toggles
     search: true
     theme_toggle: true
-    theme_picker: true
+    theme_picker: false
     language_switcher: true
     # Call-to-action button
     cta:
