@@ -48,7 +48,7 @@ sections:
        - Peace and conflict
        - Migration
     design:
-      columns: '2'
+      columns: '1'
 
   # - block: collection
   #   id: papers
