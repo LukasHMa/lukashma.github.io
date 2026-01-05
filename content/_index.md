@@ -30,7 +30,7 @@ sections:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         image:
-          filename: landscape_purple.jpg
+          filename: landscape_purple.png
         # gradient_mesh:
         #   enable: true
 
