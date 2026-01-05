@@ -31,11 +31,11 @@ hugoblox:
   # Color and visual design system
   # ────────────────────────────────────────────────────────────────────────────
   appearance:
-    theme_default: light
+    theme_default: dark
     
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: light
+    mode: dark
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
     pack: "minimal"
     # Optional: Override theme pack colors
