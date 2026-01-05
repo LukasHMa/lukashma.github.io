@@ -50,7 +50,7 @@ sections:
       text: |
        - Nation-building
        - Identity formation
-       - Peace and conflict
+       - Conflict and peacebuilding
        - Migration
     design:
       columns: '1'
