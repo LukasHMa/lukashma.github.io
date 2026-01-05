@@ -8,9 +8,9 @@ type: landing
 design:
   # Default section spacing
   spacing: '6rem'
-  background:
-    image:
-      filename: landscape_green.jpg
+  # background:
+  #   image:
+  #     filename: landscape_green.jpg
 
 sections:
   - block: resume-biography
@@ -29,8 +29,10 @@ sections:
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
-        gradient_mesh:
-          enable: true
+        image:
+          filename: landscape_purple.jpg
+        # gradient_mesh:
+        #   enable: true
 
       # Name heading sizing to accommodate long or short names
       name:
