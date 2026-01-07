@@ -1,0 +1,12 @@
+:root {
+  --font-zh: "Yuji Boku", serif;
+  --font-en: "Roboto Slab", serif;
+}
+
+body[lang^="zh"] {
+  font-family: var(--font-zh);
+}
+
+body[lang^="en"] {
+  font-family: var(--font-en);
+}
