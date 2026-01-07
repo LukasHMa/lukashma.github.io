@@ -306,7 +306,7 @@ hugoblox:
   
   # 语言配置
   languages:
-    zh:
+    zh-Hant:
       params:
         font_family: "Yuji Boku"
     en:

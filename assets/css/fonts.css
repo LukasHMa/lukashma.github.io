@@ -3,7 +3,7 @@
   --font-en: "Roboto Slab", serif;
 }
 
-body[lang^="zh"] {
+body[lang^="zh-Hant"] {
   font-family: var(--font-zh);
 }
 
