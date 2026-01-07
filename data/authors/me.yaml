@@ -2,7 +2,7 @@ schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
 name:
-  display: "Lukas Huamao Ma"
+  display: "Lukas Huamao Ma (<span lang="zh"> 馬華懋 </span>)"
   given: "Lukas Huamao"
   family: "Ma"
   alternate: "馬華懋"
