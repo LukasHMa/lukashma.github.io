@@ -5,7 +5,7 @@ type: landing
 sections:
   - block: markdown
   - content:
-      title: ""
+      title: "Teaching"
       subtitle: ""
       text: |
         ## Teaching Assistant 
