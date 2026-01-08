@@ -10,3 +10,15 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto Slab", serif;
 }
 
+:root {
+  --font-zh: "Yuji Boku", serif;
+  --font-en: "Roboto Slab", serif;
+}
+
+body[lang^="zh-Hant"] {
+  font-family: var(--font-zh);
+}
+
+body[lang^="en"] {
+  font-family: var(--font-en);
+}
