@@ -20,7 +20,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Curriculum Vitae
         url: uploads/vita_LM_Dec25.pdf
       # headings:
       #   about: ''
@@ -32,7 +32,7 @@ sections:
         # image:
         #   filename: landscape_green.jpg
         gradient_mesh:
-          enable: true
+          enable: false
 
       # Name heading sizing to accommodate long or short names
       name:
