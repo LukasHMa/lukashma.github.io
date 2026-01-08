@@ -32,7 +32,7 @@ sections:
         # image:
         #   filename: landscape_green.jpg
         gradient_mesh:
-          enable: false
+          enable: true
 
       # Name heading sizing to accommodate long or short names
       name:
