@@ -21,7 +21,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Curriculum Vitae
-        url: uploads/vita_LM_Dec25.pdf
+        url: uploads/vita_LM.pdf
       # headings:
       #   about: ''
       #   education: ''
