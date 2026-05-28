@@ -48,10 +48,8 @@ sections:
       title: 'Research interests'
       subtitle: ''
       text: |
-       - Nation-building
-       - Identity formation
-       - Conflict and peacebuilding
-       - Migration
+       - Conflict resolution
+       - Identity formation and nation-building
     design:
       columns: '1'
 
